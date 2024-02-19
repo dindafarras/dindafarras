@@ -36,3 +36,5 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dindafarras&layout=compact&layout=compact&theme=algolia"/>
 </a>
 </div>
+
+<hr>
