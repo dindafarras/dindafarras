@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinda Farras</h1>
+<h2 align="center"> Hi, I'm Dinda Farras! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h3 align="center">I'm a Student of Information System who really interest to become a programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dindafarras&label=Profile%20views&color=0e75b6&style=flat" alt="dindafarras" /> </p>
