@@ -12,7 +12,7 @@
   
 🌱 I’m currently learning **anything, that could lead me to become a full-stack developer.**
 
-⚡ Fun fact : **Harry potter have a friends named hermione, but he can make her 'the only one' 🥲**
+⚡ Fun fact : **... (still thinking)**
 
 </div>
 
